@@ -165,8 +165,8 @@ $(document).ready(function () {
     setPublicationData(
       "publications_type_one_data",
       lang === "en"
-        ? enPublicationsPageData.type_one_items
-        : zhPublicationsPageData.type_one_items
+        ? enPublicationsPageData.content
+        : zhPublicationsPageData.content
     );
 
     document.getElementById("publications_type_two_title").innerHTML =
