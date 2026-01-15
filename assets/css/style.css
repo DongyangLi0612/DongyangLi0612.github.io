@@ -1,4 +1,4 @@
-@font-face {
+x@font-face {
   font-family: "vazir";
   src: url("../fonts/vazir-400.eot");
   src: url("../fonts/vazir-400.eot?#iefix") format("embedded-opentype"),
@@ -423,7 +423,8 @@
   .main_header_info img {
     width: 200px;
     height: 200px;
-    margin-top: 1rem;
+    margin: 0;
+    /* margin-top: 1rem; */
   }
 
   .main_header_info h1 {
