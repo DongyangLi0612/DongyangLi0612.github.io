@@ -9,7 +9,7 @@ const navbarLinks = {
 const globalData = {
   image: "../files/profile.jpg",
   // resume: "../files/resume.pdf",
-  // enAddress: "Your address ",
+  enAddress: "Shanghai China ",
   // faAddress: "abc",
   // phone: "abc",
   email: "dongyangli0612@gmail.com",
