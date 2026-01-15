@@ -28,13 +28,13 @@ const enHomePageData = {
     </ul>
     <h2 class='title'> Publications </h2>
     <ul>
-      <li> <strong>On the Role of Long-tail Knowledge in Retrieval Augmented Large Language Models</strong>
-      <p><strong>Dongyang Li</strong>, Junbing Yan, Taolin Zhang, Chengyu Wang, Xiaofeng He, Longtao Huang, Hui Xue, Jun Huang</p>
-      <p> <strong>ACL 2024 (CCF-A)</strong> </p>
+      <li> <strong>On the Role of Long-tail Knowledge in Retrieval Augmented Large Language Models</strong> <br>
+      <strong>Dongyang Li</strong>, Junbing Yan, Taolin Zhang, Chengyu Wang, Xiaofeng He, Longtao Huang, Hui Xue, Jun Huang<br>
+      <strong>ACL 2024 (CCF-A)</strong>
       </li>
-      <li> <strong>HiCLRE: A Hierarchical Contrastive Learning Framework for Distantly Supervised Relation Extraction</strong>
-      <p><strong>Dongyang Li</strong>, Taolin Zhang, Nan Hu, Chengyu Wang, Xiaofeng He</p>
-      <p> <strong>ACL 2022 (CCF-A)</strong> </p>
+      <li> <strong>HiCLRE: A Hierarchical Contrastive Learning Framework for Distantly Supervised Relation Extraction</strong><br>
+      <strong>Dongyang Li</strong>, Taolin Zhang, Nan Hu, Chengyu Wang, Xiaofeng He<br>
+      <strong>ACL 2022 (CCF-A)</strong> 
       </li>
       <li> <strong>Mnemosyne: Accelerating Multi-Hop Question Answering via Cache Hit Order Fitting</strong>
       <p>Haizhou Du, Jiujiu Li, <strong>Dongyang Li<sup>✉</sup><strong>, Luobin Huang, Lisheng Wang </p>
