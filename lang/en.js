@@ -1,6 +1,6 @@
 // ---------- Navbar titles
 const enNavbarData = {
-  title: " Your name ",
+  title: " Dongyang Li ",
   Home: "Home",
   publications: "publications",
   Research: "Research",
@@ -10,21 +10,22 @@ const enNavbarData = {
 
 // ---------- Home page data
 const enHomePageData = {
-  name: " Your name ",
-  jobTitle: " Job title ",
+  name: " Dongyang Li ",
+  jobTitle: " Lecturer ",
   home_title: "About me",
   home_content: `
   <div>
-    <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.
-      ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-      Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    <p> I'm a lecturer at Faculty of Artificial Intelligence, Shanghai University of Electric Power. I has obtained my Ph.D degree from East China Normal University (ECNU), supervised by Prof. Xiaofeng He. 
+    Currently, my research interests are large language models, multi-modal large language models and multi-agent system. 
+    I have published 20+ papers in top-tier international conferences and journals, such as ACL, AAAI, EMNLP, COLING, KBS, ECAI, etc.
     </p>
-    <h2 class='title'> Main works </h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas purus viverra accumsan in nisl nisi. Arcu cursus vitae congue mauris rhoncus aenean vel elit scelerisque. In egestas erat imperdiet sed euismod nisi porta lorem mollis. Morbi tristique senectus et netus. Mattis pellentesque id nibh  </p>
+    <h2 class='title'> Research Interests </h2>
+    <p>Looking for master’s students to work on large language models, multi-agent system!  </p>
     <ul>
-      <li> Heuristics</li>
-      <li> Policy planning </li>
-      <li> Flexiblity to details </li>
+      <li> Large Language Models</li>
+      <li> Multi-modal Large Language Models </li>
+      <li> Multi-agent System </li>
+      <li> Knowledge-Enhanced Language Models </li>
     </ul>
   </div>
   `,
