@@ -15,7 +15,7 @@ const enHomePageData = {
   home_title: "About me",
   home_content: `
   <div>
-    <p> I'm a lecturer at Faculty of Artificial Intelligence, Shanghai University of Electric Power. I has obtained my Ph.D degree from East China Normal University (ECNU), supervised by Prof. Xiaofeng He. 
+    <p> I'm a lecturer at Faculty of Artificial Intelligence, Shanghai University of Electric Power. I have obtained my Ph.D degree from East China Normal University (ECNU), supervised by Prof. Xiaofeng He. 
     Currently, my research interests are large language models, multi-modal large language models and multi-agent system. 
     I have published 20+ papers in top-tier international conferences and journals, such as ACL, AAAI, EMNLP, COLING, KBS, ECAI, etc.
     </p>
@@ -79,8 +79,8 @@ const enHomePageData = {
       <p>Feifei Xu, Wenjing Zhu, <strong>Dongyang Li<sup>✉</sup><strong>, and Puzhe Li</p>
       <p> <strong>MMM 2026 (CCF-C)</strong> </p>
       </li>
-      <li> <strong>Question-Aware Spatial-Temporal Reasoning in Patch for Audio-Visual Question Answering</strong>
-      <p>Feifei Xu, Wenjing Zhu, <strong>Dongyang Li<sup>✉</sup><strong>, and Puzhe Li</p>
+      <li> <strong>LME-DETR: Lightweight and Multi-Scale Feature-Enhanced End-to-End Object Detection for Aerial Images</strong>
+      <p>Feifei Xu, Yu Xie, <strong>Dongyang Li<sup>✉</sup><strong>, luobin Huang, Zhihao Guo</p>
       <p> <strong>MMM 2026</strong> </p>
       </li>
       <li> <strong>CUOM: A Causal Unbiased Optimization Method for Federated Domain</strong>
@@ -90,6 +90,41 @@ const enHomePageData = {
       <li> <strong>Taming the Long Tail in Federated Learning: A Unified Global and Personalized Model Framework</strong>
       <p>Pengsong Zhang, Mi Wen, Zhou Zhu, <strong>Dongyang Li</strong></p>
       <p> <strong>Information Sciences (SCI Q2 journal)</strong> </p>
+      </li>
+      </li>
+      <li> <strong>BELLE: A Bi-Level Multi-Agent Reasoning Framework for Multi-Hop Question Answering</strong>
+      <p>Taolin Zhang, <strong>Dongyang Li</strong>, Qizhou Chen, Chengyu Wang, Xiaofeng He</p>
+      <p> <strong>ACL 2025 (CCF-A)</strong> </p>
+      </li>
+      </li>
+      <li> <strong>PE: A Poincare Explanation Method for Fast Text Hierarchy Generation</strong>
+      <p>Qian Chen, <strong>Dongyang Li</strong>, Xiaofeng He, Hongzhao Li, Hongyu Yi</p>
+      <p> <strong>EMNLP 2024 (CCF-B)</strong> </p>
+      </li>
+      </li>
+      <li> <strong>SE-Prompt: Exploring Semantic Enhancement with Prompt Tuning for Relation Extraction</strong>
+      <p>Cai Wang, <strong>Dongyang Li</strong>, Xiaofeng He</p>
+      <p> <strong>ADMA 2023 (CCF-C)</strong> </p>
+      </li>
+      </li>
+      <li> <strong>OnMKD: An Online Mutual Knowledge Distillation Framework for Passage Retrieval</strong>
+      <p>Jiali Deng, <strong>Dongyang Li</strong>, Taolin Zhang, Xiaofeng He</p>
+      <p> <strong>NLPCC 2023 (CCF-C)</strong> </p>
+      </li>
+      </li>
+      <li> <strong>CIDR: A Cooperative Integrated Dynamic Refining Method for Minimal Feature Removal Problem</strong>
+      <p>Qian Chen, Taolin Zhang, <strong>Dongyang Li</strong>, Xiaofeng He</p>
+      <p> <strong>AAAI 2024 (CCF-A)</strong> </p>
+      </li>
+      </li>
+      <li> <strong>Knowledge-Enhanced Prototypical Network with Structural Semantics for Few-Shot Relation Classification</strong>
+      <p>Yanhu Li, Taolin Zhang, <strong>Dongyang Li</strong>, Xiaofeng He</p>
+      <p> <strong>PAKDD 2023 (CCF-C)</strong> </p>
+      </li>
+      </li>
+      <li> <strong>Lifelong Knowledge Editing for LLMs with Retrieval-Augmented Continuous Prompt Learning</strong>
+      <p>Qizhou Chen, Taolin Zhang, Xiaofeng He, <strong>Dongyang Li</strong>, Chengyu Wang, Longtao Huang, Hui Xue</p>
+      <p> <strong>EMNLP 2024 (CCF-B)</strong> </p>
       </li>
       
     </ul>
