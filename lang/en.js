@@ -22,8 +22,7 @@ const enHomePageData = {
     <h2 class='title'> Research Interests </h2>
     <p>Looking for master’s students to work on large language models, multi-agent system!  </p>
     <ul>
-      <li> Large Language Models</li>
-      <li> Multi-modal Large Language Models </li>
+      <li> Large Language Models (Text-modal & Multi-modal)</li>
       <li> Multi-agent System </li>
       <li> Knowledge-Enhanced Language Models </li>
     </ul>
