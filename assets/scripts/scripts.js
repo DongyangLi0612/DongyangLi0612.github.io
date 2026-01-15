@@ -7,7 +7,7 @@ $(document).ready(function () {
     localStorage.setItem("lang", "en");
   }
 
-  if (lang === "fa") {
+  if (lang === "en") {
     document.getElementById("content_wrapper").classList.add("rtl_wrapper");
     if (
       document.getElementById("languageIcon") &&
@@ -24,8 +24,8 @@ $(document).ready(function () {
       document.getElementById("languageText")
     ) {
       document.getElementById("languageIcon").src =
-        "../assets/images/icons/ir.png";
-      document.getElementById("languageText").innerText = "FA";
+        "../assets/images/icons/zh.jpg";
+      document.getElementById("languageText").innerText = "ZH";
     }
   }
 
@@ -42,6 +42,16 @@ $(document).ready(function () {
         name: globalData.whatsapp,
         active: globalData.whatsapp ? true : false,
         img: "../assets/images/icons/whatsapp.png",
+      },
+      {
+        name: globalData.enAddress,
+        active: globalData.enAddress ? true : false,
+        img: "../assets/images/icons/location.png",
+      },
+      {
+        name: globalData.googleScholar,
+        active: globalData.googleScholar ? true : false,
+        img: "../assets/images/icons/google-scholar.png",
       },
       {
         name: globalData.twitter,
