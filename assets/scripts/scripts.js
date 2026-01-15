@@ -8,7 +8,7 @@ $(document).ready(function () {
   }
 
   if (lang === "zh") {
-    document.getElementById("content_wrapper").classList.add("rtl_wrapper");
+    document.getElementById("content_wrapper").classList.add("ltr_wrapper");
     if (
       document.getElementById("languageIcon") &&
       document.getElementById("languageText")
@@ -18,7 +18,7 @@ $(document).ready(function () {
       document.getElementById("languageText").innerText = "EN";
     }
   } else {
-    document.getElementById("content_wrapper").classList.add("rtl_wrapper");
+    document.getElementById("content_wrapper").classList.add("ltr_wrapper");
     if (
       document.getElementById("languageIcon") &&
       document.getElementById("languageText")
