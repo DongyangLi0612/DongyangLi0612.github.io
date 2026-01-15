@@ -26,6 +26,73 @@ const enHomePageData = {
       <li> Multi-agent System </li>
       <li> Knowledge-Enhanced Language Models </li>
     </ul>
+    <h2 class='title'> Publications </h2>
+    <ul>
+      <li> <strong>On the Role of Long-tail Knowledge in Retrieval Augmented Large Language Models</strong>
+      <p><strong>Dongyang Li</strong>, Junbing Yan, Taolin Zhang, Chengyu Wang, Xiaofeng He, Longtao Huang, Hui Xue, Jun Huang</p>
+      <p> <strong>ACL 2024 (CCF-A)</strong> </p>
+      </li>
+      <li> <strong>HiCLRE: A Hierarchical Contrastive Learning Framework for Distantly Supervised Relation Extraction</strong>
+      <p><strong>Dongyang Li</strong>, Taolin Zhang, Nan Hu, Chengyu Wang, Xiaofeng He</p>
+      <p> <strong>ACL 2022 (CCF-A)</strong> </p>
+      </li>
+      <li> <strong>Mnemosyne: Accelerating Multi-Hop Question Answering via Cache Hit Order Fitting</strong>
+      <p>Haizhou Du, Jiujiu Li, <strong>Dongyang Li<sup>✉</sup><strong>, Luobin Huang, Lisheng Wang </p>
+      <p> <strong>AAAI 2026 (CCF-A)</strong> </p>
+      </li>
+      </li>
+      <li> <strong>DCTR: Dual-Constraint Subgraph Optimization for Knowledge Graph-based Retrieval-Augmented Generation</strong>
+      <p>Yukun Cao, Zirui Xu, <strong>Dongyang Li<sup>✉</sup><strong>, Zhihao Guo, Luobin Huang, Lisheng Wang</p>
+      <p> <strong>AAAI 2026 (CCF-A)</strong> </p>
+      </li>
+      </li>
+      <li> <strong>KEHRL: Learning Knowledge-Enhanced Language Representations with Hierarchical Reinforcement Learning</strong>
+      <p><strong>Dongyang Li</strong>, Taolin Zhang, Longtao Huang, Chengyu Wang, Xiaofeng He, Hui Xue </p>
+      <p> <strong>COLING 2024 (CCF-B)</strong> </p>
+      </li>
+      </li>
+      <li> <strong>UniPSDA: Unsupervised Pseudo Semantic Data Augmentation for Zero-Shot Cross-Lingual Natural Language Understanding</strong>
+      <p><strong>Dongyang Li</strong>, Taolin Zhang, Jiali Deng, Longtao Huang, Chengyu Wang, Xiaofeng He, Hui Xue</p>
+      <p> <strong>COLING 2024 (CCF-B)</strong> </p>
+      </li>
+      <li> <strong>MCFC: A Momentum-Driven Clicked Feature Compressed Pre-trained Language Model for Information Retrieval</strong>
+      <p><strong>Dongyang Li</strong>, Ruixue Ding, Pengjun Xie, Xiaofeng He</p>
+      <p> <strong>NLPCC 2024 (CCF-C)</strong> </p>
+      </li>
+      <li> <strong>GeoGLUE: A Chinese GeoGraphic Language Understanding Evaluation Benchmark</strong>
+      <p><strong>Dongyang Li</strong>, Ruixue Ding, Qiang Zhang, Zheng Li, Boli Chen, Pengjun Xie, Yao Xu, Xin Li, Ning Guo, Fei Huang, Xiaofeng He</p>
+      <p> <strong>ADMA 2024 (CCF-C)</strong> </p>
+      </li>
+      <li> <strong>DAFNet: Dynamic Auxiliary Fusion for Sequential Model Editing in Large Language Models</strong>
+      <p>Taolin Zhang, Qizhou Chen, <strong>Dongyang Li (Co-first author)</strong>, Chengyu Wang, Xiaofeng He, Longtao Huang, Hui Xue, Jun Huang</p>
+      <p> <strong>ACL 2024 (CCF-A)</strong> </p>
+      </li>
+      <li> <strong>R4: Reinforced Retriever-Reorder-Responder for   Retrieval-Augmented Large Language Models</strong>
+      <p>Taolin Zhang, <strong>Dongyang Li (Co-first author)</strong>, Qizhou Chen, Chengyu Wang, Longtao Huang, Hui Xue, Xiaofeng He, Jun Huang</p>
+      <p> <strong>ECAI 2024 (CCF-B)</strong> </p>
+      </li>
+      <li> <strong>Text-Driven Hybrid Curriculum Learning for Multimodal Sentiment Analysis</strong>
+      <p>Feifei Xu, Puzhe Li, <strong>Dongyang Li<sup>✉</sup><strong>, Luobin Huang, and Wenjing Zhu</p>
+      <p> <strong>MMM 2026 (CCF-C)</strong> </p>
+      </li>
+      <li> <strong>Question-Aware Spatial-Temporal Reasoning in Patch for Audio-Visual Question Answering</strong>
+      <p>Feifei Xu, Wenjing Zhu, <strong>Dongyang Li<sup>✉</sup><strong>, and Puzhe Li</p>
+      <p> <strong>MMM 2026 (CCF-C)</strong> </p>
+      </li>
+      <li> <strong>Question-Aware Spatial-Temporal Reasoning in Patch for Audio-Visual Question Answering</strong>
+      <p>Feifei Xu, Wenjing Zhu, <strong>Dongyang Li<sup>✉</sup><strong>, and Puzhe Li</p>
+      <p> <strong>MMM 2026</strong> </p>
+      </li>
+      <li> <strong>CUOM: A Causal Unbiased Optimization Method for Federated Domain</strong>
+      <p>Mi Wen, Kang Han, <strong>Dongyang Li</strong>, QiYe Cai, HaiLun Shen</p>
+      <p> <strong>KBS (SCI Q1 journal)</strong> </p>
+      </li>
+      <li> <strong>Taming the Long Tail in Federated Learning: A Unified Global and Personalized Model Framework</strong>
+      <p>Pengsong Zhang, Mi Wen, Zhou Zhu, <strong>Dongyang Li</strong></p>
+      <p> <strong>Information Sciences (SCI Q2 journal)</strong> </p>
+      </li>
+      
+    </ul>
   </div>
   `,
 };
