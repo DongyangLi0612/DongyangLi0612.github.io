@@ -7,7 +7,7 @@ $(document).ready(function () {
     localStorage.setItem("lang", "en");
   }
 
-  if (lang === "en") {
+  if (lang === "zh") {
     document.getElementById("content_wrapper").classList.add("rtl_wrapper");
     if (
       document.getElementById("languageIcon") &&
@@ -18,7 +18,7 @@ $(document).ready(function () {
       document.getElementById("languageText").innerText = "EN";
     }
   } else {
-    document.getElementById("content_wrapper").classList.add("ltr_wrapper");
+    document.getElementById("content_wrapper").classList.add("rtl_wrapper");
     if (
       document.getElementById("languageIcon") &&
       document.getElementById("languageText")
@@ -80,15 +80,15 @@ $(document).ready(function () {
 
   function homeData() {
     document.getElementById("page_title").innerText =
-      lang === "en" ? enHomePageData.name : faHomePageData.name;
+      lang === "en" ? enHomePageData.name : zhHomePageData.name;
 
     document.getElementById("home_image").src = home_data.image
       ? home_data.image
       : "";
     document.getElementById("home_name").innerText =
-      lang === "en" ? enHomePageData.name : faHomePageData.name;
+      lang === "en" ? enHomePageData.name : zhHomePageData.name;
     document.getElementById("home_job_title").innerText =
-      lang === "en" ? enHomePageData.jobTitle : faHomePageData.jobTitle;
+      lang === "en" ? enHomePageData.jobTitle : zhHomePageData.jobTitle;
     document.getElementById("home_links").innerHTML = home_data.links
       .filter((item) => item.active)
       .map(
@@ -100,9 +100,9 @@ $(document).ready(function () {
       .join("");
 
     document.getElementById("home_title").innerText =
-      lang === "en" ? enHomePageData.home_title : faHomePageData.home_title;
+      lang === "en" ? enHomePageData.home_title : zhHomePageData.home_title;
     document.getElementById("home_content").innerHTML =
-      lang === "en" ? enHomePageData.home_content : faHomePageData.home_content;
+      lang === "en" ? enHomePageData.home_content : zhHomePageData.home_content;
   }
 
   if (pathname === "/" || pathname === "/index") {
@@ -133,7 +133,7 @@ $(document).ready(function () {
             publication.link &&
             `<li>
                 <a href=${publication.link} target="_blank"> ${
-              lang === "en" ? "View" : " مشاهده"
+              lang === "en" ? "View" : " View "
             } </a>
               </li>`
           }
@@ -141,7 +141,7 @@ $(document).ready(function () {
               publication.github &&
               `<li>
                   <a href=${publication.github} target="_blank">  ${
-                lang === "en" ? "Github" : "گیت‌هاب"
+                lang === "en" ? "Github" : "Github"
               }</a>
                 </li>`
             }
@@ -155,54 +155,54 @@ $(document).ready(function () {
 
   function publicationsData() {
     document.getElementById("page_title").innerText =
-      lang === "en" ? "Publications" : "مقالات";
+      lang === "en" ? "Publications" : "学术成果";
 
     document.getElementById("publications_type_one_title").innerHTML =
       lang === "en"
         ? enPublicationsPageData.type_one_title
-        : faPublicationsPageData.type_one_title;
+        : zhPublicationsPageData.type_one_title;
 
     setPublicationData(
       "publications_type_one_data",
       lang === "en"
         ? enPublicationsPageData.type_one_items
-        : faPublicationsPageData.type_one_items
+        : zhPublicationsPageData.type_one_items
     );
 
     document.getElementById("publications_type_two_title").innerHTML =
       lang === "en"
         ? enPublicationsPageData.type_two_title
-        : faPublicationsPageData.type_two_title;
+        : zhPublicationsPageData.type_two_title;
 
     setPublicationData(
       "publications_type_two_data",
       lang === "en"
         ? enPublicationsPageData.type_two_items
-        : faPublicationsPageData.type_two_items
+        : zhPublicationsPageData.type_two_items
     );
 
     document.getElementById("publications_type_three_title").innerHTML =
       lang === "en"
         ? enPublicationsPageData.type_three_title
-        : faPublicationsPageData.type_three_title;
+        : zhPublicationsPageData.type_three_title;
 
     setPublicationData(
       "publications_type_three_data",
       lang === "en"
         ? enPublicationsPageData.type_three_items
-        : faPublicationsPageData.type_three_items
+        : zhPublicationsPageData.type_three_items
     );
 
     document.getElementById("publications_type_four_title").innerHTML =
       lang === "en"
         ? enPublicationsPageData.type_four_title
-        : faPublicationsPageData.type_four_title;
+        : zhPublicationsPageData.type_four_title;
 
     setPublicationData(
       "publications_type_four_data",
       lang === "en"
         ? enPublicationsPageData.type_four_items
-        : faPublicationsPageData.type_four_items
+        : zhPublicationsPageData.type_four_items
     );
   }
 
@@ -213,12 +213,12 @@ $(document).ready(function () {
   // Research page data
   function researchData() {
     document.getElementById("page_title").innerText =
-      lang === "en" ? "Research" : "تحقیقات";
+      lang === "en" ? "Research" : "科研项目";
 
     document.getElementById("research_title").innerHTML =
-      lang === "en" ? enResearchPageData.title : faResearchPageData.title;
+      lang === "en" ? enResearchPageData.title : zhResearchPageData.title;
     document.getElementById("research_data").innerHTML =
-      lang === "en" ? enResearchPageData.content : faResearchPageData.content;
+      lang === "en" ? enResearchPageData.content : zhResearchPageData.content;
   }
 
   if (pathname === "/research") {
@@ -228,13 +228,13 @@ $(document).ready(function () {
   // Jobs page data
   function jobsData() {
     document.getElementById("page_title").innerText =
-      lang === "en" ? "Jobs" : " سوابق شغلی ";
+      lang === "en" ? "Jobs" : " 工作经历 ";
 
     document.getElementById("jobs_title").innerHTML =
-      lang === "en" ? enJobsPageData.title : faJobsPageData.title;
+      lang === "en" ? enJobsPageData.title : zhJobsPageData.title;
 
     document.getElementById("jobs_data").innerHTML = (
-      lang === "en" ? enJobsPageData.items : faJobsPageData.items
+      lang === "en" ? enJobsPageData.items : zhJobsPageData.items
     )
       .map(
         (job) =>
@@ -246,7 +246,7 @@ $(document).ready(function () {
               </div>
               <div>
                 <span>${job.startData} - ${
-            job.endDate ? job.endDate : lang === "en" ? "Now" : " تاکنون "
+            job.endDate ? job.endDate : lang === "en" ? "Now" : " 现在 "
           }</span>
                 <span class='job_location'>${job.location}</span>
               </div>
@@ -274,11 +274,11 @@ $(document).ready(function () {
 
   // Contact page data
   const contact_data = {
-    contact_title: lang === "en" ? "Contact" : "ارتباط با من",
+    contact_title: lang === "en" ? "Contact" : "联系方式",
     contact_items: [
       {
         img: "../assets/images/icons/location.png",
-        title: lang === "en" ? globalData.enAddress : globalData.faAddress,
+        title: lang === "en" ? globalData.enAddress : globalData.zhAddress,
         active: globalData.enAddress || globalData.faAddress ? true : false,
       },
       {
