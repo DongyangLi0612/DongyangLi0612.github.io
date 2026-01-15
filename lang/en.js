@@ -33,7 +33,7 @@ const enHomePageData = {
 // ---------- Publications page data
 const enPublicationsPageData = {
   type_one_title: "Conference & Journal Papers",
-  type_one_items: `
+  type_one_items: [`
   <div>
     <ul>
       <li> <strong>On the Role of Long-tail Knowledge in Retrieval Augmented Large Language Models</strong> <br>
@@ -137,7 +137,7 @@ const enPublicationsPageData = {
       
     </ul>
   </div>
-  `,
+  `],
 
   // type_one_items: [
   //   {
