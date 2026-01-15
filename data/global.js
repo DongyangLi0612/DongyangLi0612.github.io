@@ -9,8 +9,8 @@ const navbarLinks = {
 const globalData = {
   image: "../files/profile.jpg",
   // resume: "../files/resume.pdf",
-  enAddress: "Shanghai China ",
-  // faAddress: "abc",
+  enAddress: "https://fai.shiep.edu.cn/main.htm ",
+  zhAddress: "https://fai.shiep.edu.cn/main.htm",
   // phone: "abc",
   email: "dongyangli0612@gmail.com",
   // twitterTitle: "",
