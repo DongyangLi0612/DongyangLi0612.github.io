@@ -1,5 +1,5 @@
 // ---------- Navbar titles
-const enNavbarData = {
+const zhNavbarData = {
   title: " 李东阳",
   Home: "主页",
   publications: "学术成果",
@@ -9,7 +9,7 @@ const enNavbarData = {
 };
 
 // ---------- Home page data
-const enHomePageData = {
+const zhHomePageData = {
   name: " 李东阳",
   jobTitle: " 讲师 ",
   home_title: "About me",
@@ -31,7 +31,7 @@ const enHomePageData = {
 };
 
 // ---------- Publications page data
-const enPublicationsPageData = {
+const zhPublicationsPageData = {
   type_one_title: "Journal Papers",
 
   type_one_items: [
@@ -116,7 +116,7 @@ const enPublicationsPageData = {
 };
 
 // ---------- Research page data
-const enResearchPageData = {
+const zhResearchPageData = {
   title: "Research",
   content: `
     <div class='research_content'>
@@ -131,7 +131,7 @@ const enResearchPageData = {
 };
 
 // ---------- Jobs page data
-const enJobsPageData = {
+const zhJobsPageData = {
   title: "Jobs",
   items: [
     {
