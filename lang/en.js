@@ -17,7 +17,7 @@ const enHomePageData = {
   <div>
     <p> I'm a lecturer at Faculty of Artificial Intelligence, Shanghai University of Electric Power. I have obtained my Ph.D degree from East China Normal University (ECNU), supervised by Prof. Xiaofeng He. 
     Currently, my research interests are large language models, multi-modal large language models and multi-agent system. 
-    I have published 20+ papers in top-tier international conferences and journals, such as ACL, AAAI, EMNLP, COLING, KBS, ECAI, etc.
+    I have published papers in top-tier international conferences and journals, such as ACL, AAAI, EMNLP, COLING, KBS, ECAI, etc.
     </p>
     <h2 class='title'> Research Interests </h2>
     <p>Looking for master’s students to work on large language models, multi-agent system!  </p>
@@ -26,7 +26,15 @@ const enHomePageData = {
       <li> Multi-Agent System </li>
       <li> Knowledge-Enhanced Language Models </li>
     </ul>
-    <h2 class='title'> Publications </h2>
+  </div>
+  `,
+};
+
+// ---------- Publications page data
+const enPublicationsPageData = {
+  // type_one_title: "Conference & Journal Papers",
+  type_one_title: `
+  <div>
     <ul>
       <li> <strong>On the Role of Long-tail Knowledge in Retrieval Augmented Large Language Models</strong> <br>
       <strong>Dongyang Li</strong>, Junbing Yan, Taolin Zhang, Chengyu Wang, Xiaofeng He, Longtao Huang, Hui Xue, Jun Huang<br>
@@ -130,11 +138,6 @@ const enHomePageData = {
     </ul>
   </div>
   `,
-};
-
-// ---------- Publications page data
-const enPublicationsPageData = {
-  type_one_title: "Journal Papers",
 
   type_one_items: [
     {
