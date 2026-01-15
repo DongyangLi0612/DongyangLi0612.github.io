@@ -20,7 +20,7 @@ const enHomePageData = {
     I have published papers in top-tier international conferences and journals, such as ACL, AAAI, EMNLP, COLING, KBS, ECAI, etc.
     </p>
     <h2 class='title'> Research Interests </h2>
-    <p>Looking for master’s students to work on large language models, multi-agent system!  </p>
+    <p><strong>Looking for master’s students to work on large language models, multi-agent system! </strong> </p>
     <ul>
       <li> Large Language Models (Text-Modal & Multi-Modal)</li>
       <li> Multi-Agent System </li>
