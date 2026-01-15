@@ -423,8 +423,7 @@ x@font-face {
   .main_header_info img {
     width: 200px;
     height: 200px;
-    margin: 0;
-    /* margin-top: 1rem; */
+    margin-top: 1rem;
   }
 
   .main_header_info h1 {
