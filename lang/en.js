@@ -143,7 +143,7 @@ const enPublicationsPageData = {
   `}
   ],
     
-  type_one_items: [
+ 
 
   // type_one_items: [
   //   {
