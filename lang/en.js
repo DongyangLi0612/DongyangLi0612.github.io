@@ -35,6 +35,7 @@ const enPublicationsPageData = {
   type_one_title: "Conference & Journal Papers",
   type_one_items: [
     {
+      title: `Dancing to the beat of climate change: Studying visual frames on TikTok through the left-right divide among U.S. politicians (with ).`,
       abstract: `
   <div>
     <ul>
