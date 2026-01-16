@@ -140,7 +140,8 @@ const enPublicationsPageData = {
       
     </ul>
   </div>
-  `}
+  `，
+    }
   ],
     
  
