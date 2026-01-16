@@ -150,6 +150,7 @@ const enPublicationsPageData = {
     {
       title: `Conference & Journal Papers`,
       abstract: `
+    <div>
     <ul>
       <li> <strong>On the Role of Long-tail Knowledge in Retrieval Augmented Large Language Models</strong> <br>
       <strong>Dongyang Li</strong>, Junbing Yan, Taolin Zhang, Chengyu Wang, Xiaofeng He, Longtao Huang, Hui Xue, Jun Huang<br>
@@ -249,8 +250,8 @@ const enPublicationsPageData = {
       Qizhou Chen, Taolin Zhang, Xiaofeng He, <strong>Dongyang Li</strong>, Chengyu Wang, Longtao Huang, Hui Xue<br>
       <strong>EMNLP 2024 (CCF-B)</strong>
       </li>
-      
     </ul>
+    </div>
       `,
       link: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
     },
