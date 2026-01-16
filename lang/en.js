@@ -2,7 +2,7 @@
 const enNavbarData = {
   title: " Dongyang Li ",
   Home: "Home",
-  publications: "publications",
+  publications: "Publications",
   Research: "Research",
   Jobs: "Jobs",
   Contact: "Contact",
