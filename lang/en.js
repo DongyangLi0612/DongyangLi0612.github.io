@@ -17,7 +17,7 @@ const enHomePageData = {
   <div>
     <p> I'm a lecturer at Faculty of Artificial Intelligence, Shanghai University of Electric Power. I have obtained my Ph.D degree from East China Normal University (ECNU), supervised by Prof. Xiaofeng He. 
     Currently, my research interests are large language models (Text-Modal & Multi-Modal) and multi-agent system. 
-    I have published papers in top-tier international conferences and journals, such as ACL, AAAI, EMNLP, COLING, KBS, ECAI, etc.
+    I have published papers in top-tier international conferences and journals, such as ACL, AAAI, EMNLP, COLING, KBS, ECAI, etc.3
     </p>
     <h2 class='title'> Research Interests </h2>
     <p><strong>Looking for master’s students to work on large language models, multi-agent system! </strong> </p>
@@ -259,6 +259,7 @@ const enPublicationsPageData = {
       <strong>EMNLP 2024 (CCF-B)</strong>
       </li>
     </ul>
+    </div>
       `,
       link: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
     },
