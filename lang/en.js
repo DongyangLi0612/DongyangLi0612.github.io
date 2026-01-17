@@ -145,18 +145,7 @@ const enPublicationsPageData = {
   // ],
   type_one_items: [
     {
-      title: `On the Role of Long-tail Knowledge in Retrieval Augmented Large Language Models`,
-      abstract: `Politicians across the political spectrum have taken to TikTok in an attempt to reach young voters by producing original videos. This novel trend has turned TikTok into the new polarizing ring in the political communication battle, deepening the partisan breach around issues such as climate change. However`,
-      date: "ACL 2024 (CCF-A)",
-      writers: ["<strong>Dongyang Li</strong>", "Junbing Yan", "Taolin Zhang", "Chengyu Wang", "Xiaofeng He", "Longtao Huang", "Hui Xue", "Jun Huang"],
-    },
-    {
-      title: `HiCLRE: A Hierarchical Contrastive Learning Framework for Distantly Supervised Relation Extraction`,
-      abstract: `<strong>Dongyang Li</strong>, Taolin Zhang, Nan Hu, Chengyu Wang, Xiaofeng He<br>`,
-      writers: ["ACL 2022 (CCF-A)"],
-    },
-    {
-      title: `HiCLRE: A Hierarchical Contrastive Learning Framework for Distantly Supervised Relation Extraction`,
+      title: ` Conference & Journal Papers `,
       abstract: `
       <div>
     <ul>
@@ -251,7 +240,7 @@ const enPublicationsPageData = {
       <ul>
       </div>
       `,
-      writers: ["ACL 2022 (CCF-A)"],
+    link: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
     },
   ],
  
