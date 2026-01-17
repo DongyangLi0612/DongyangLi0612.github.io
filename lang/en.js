@@ -156,7 +156,7 @@ const enPublicationsPageData = {
       writers: [sdfsdf],
     },
     {
-      title: `Conference & Journal Papers`,
+      title: `Conference Journal Papers`,
       abstract: `
     <div>
     <ul>
