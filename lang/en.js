@@ -165,14 +165,6 @@ const enPublicationsPageData = {
       Yukun Cao, Zirui Xu, <strong>Dongyang Li<sup>✉</sup><strong>, Zhihao Guo, Luobin Huang, Lisheng Wang<br>
       <strong>AAAI 2026 (CCF-A)</strong> </p>
       </li>
-      <li> <strong>KEHRL: Learning Knowledge-Enhanced Language Representations with Hierarchical Reinforcement Learning</strong><br>
-      <strong>Dongyang Li</strong>, Taolin Zhang, Longtao Huang, Chengyu Wang, Xiaofeng He, Hui Xue
-      <strong>COLING 2024 (CCF-B)</strong>
-      </li>
-      <li> <strong>UniPSDA: Unsupervised Pseudo Semantic Data Augmentation for Zero-Shot Cross-Lingual Natural Language Understanding</strong><br>
-      <strong>Dongyang Li</strong>, Taolin Zhang, Jiali Deng, Longtao Huang, Chengyu Wang, Xiaofeng He, Hui Xue<br>
-      <strong>COLING 2024 (CCF-B)</strong>
-      </li>
       
       <ul>
       </div>
