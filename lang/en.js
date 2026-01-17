@@ -149,11 +149,11 @@ const enPublicationsPageData = {
   type_one_items: [
       {
       title: `Elena Reinaga. 2016. If I were born again I would still be a sex worker. P. Purdy and N. Umansky. OpenDemocracy.`,
-      abstract: ``,
-      date: "",
-      link: "",
-      github: "",
-      writers: [],
+      abstract: `sdfsd`,
+      date: "2017",
+      link: "sdf",
+      github: "sdfsd",
+      writers: [sdfsdf],
     },
     {
       title: `Conference & Journal Papers`,
@@ -264,7 +264,7 @@ const enPublicationsPageData = {
     },
   ],
 
-  type_two_title: "Research Projects",
+  type_two_title: `"Research Projects"`,
   type_two_items: [
     {
       title: `Elena Reinaga. 2016. If I were born again I would still be a sex worker. P. Purdy and N. Umansky. OpenDemocracy.`,
