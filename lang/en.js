@@ -375,7 +375,7 @@ const enPublicationsPageData = {
   //   },
   // ],
 
-  type_two_title: `"Research Projects"`,
+  type_two_title: `Research Projects`,
   type_two_items: [
     {
       title: `Elena Reinaga. 2016. If I were born again I would still be a sex worker. P. Purdy and N. Umansky. OpenDemocracy.`,
