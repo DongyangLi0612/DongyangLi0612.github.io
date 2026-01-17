@@ -161,11 +161,6 @@ const enPublicationsPageData = {
       Haizhou Du, Jiujiu Li, <strong>Dongyang Li<sup>✉</sup><strong>, Luobin Huang, Lisheng Wang<br>
       <strong>AAAI 2026 (CCF-A)</strong> 
       </li>
-      <li> <strong>DCTR: Dual-Constraint Subgraph Optimization for Knowledge Graph-based Retrieval-Augmented Generation</strong><br>
-      Yukun Cao, Zirui Xu, <strong>Dongyang Li<sup>✉</sup><strong>, Zhihao Guo, Luobin Huang, Lisheng Wang<br>
-      <strong>AAAI 2026 (CCF-A)</strong> </p>
-      </li>
-      
       <ul>
       </div>
       `,
