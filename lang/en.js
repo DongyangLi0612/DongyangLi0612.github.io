@@ -209,34 +209,6 @@ const enPublicationsPageData = {
       Pengsong Zhang, Mi Wen, Zhou Zhu, <strong>Dongyang Li</strong><br>
       <strong>Information Sciences (SCI Q2 journal)</strong> </p>
       </li>
-      <li> <strong>BELLE: A Bi-Level Multi-Agent Reasoning Framework for Multi-Hop Question Answering</strong><br>
-      Taolin Zhang, <strong>Dongyang Li</strong>, Qizhou Chen, Chengyu Wang, Xiaofeng He<br>
-      <strong>ACL 2025 (CCF-A)</strong>
-      </li>
-      <li> <strong>PE: A Poincare Explanation Method for Fast Text Hierarchy Generation</strong><br>
-      Qian Chen, <strong>Dongyang Li</strong>, Xiaofeng He, Hongzhao Li, Hongyu Yi<br>
-      <strong>EMNLP 2024 (CCF-B)</strong>
-      </li>
-      <li> <strong>SE-Prompt: Exploring Semantic Enhancement with Prompt Tuning for Relation Extraction</strong><br>
-      Cai Wang, <strong>Dongyang Li</strong>, Xiaofeng He<br>
-      <strong>ADMA 2023 (CCF-C)</strong> </p>
-      </li>
-      <li> <strong>OnMKD: An Online Mutual Knowledge Distillation Framework for Passage Retrieval</strong><br>
-      Jiali Deng, <strong>Dongyang Li</strong>, Taolin Zhang, Xiaofeng He<br>
-      <strong>NLPCC 2023 (CCF-C)</strong>
-      </li>
-      <li> <strong>CIDR: A Cooperative Integrated Dynamic Refining Method for Minimal Feature Removal Problem</strong><br>
-      Qian Chen, Taolin Zhang, <strong>Dongyang Li</strong>, Xiaofeng He<br>
-      <strong>AAAI 2024 (CCF-A)</strong>
-      </li>
-      <li> <strong>Knowledge-Enhanced Prototypical Network with Structural Semantics for Few-Shot Relation Classification</strong><br>
-      Yanhu Li, Taolin Zhang, <strong>Dongyang Li</strong>, Xiaofeng He<br>
-      <strong>PAKDD 2023 (CCF-C)</strong>
-      </li>
-      <li> <strong>Lifelong Knowledge Editing for LLMs with Retrieval-Augmented Continuous Prompt Learning</strong><br>
-      Qizhou Chen, Taolin Zhang, Xiaofeng He, <strong>Dongyang Li</strong>, Chengyu Wang, Longtao Huang, Hui Xue<br>
-      <strong>EMNLP 2024 (CCF-B)</strong>
-      </li>
       <ul>
       </div>
       `,
