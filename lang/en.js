@@ -155,24 +155,7 @@ const enPublicationsPageData = {
     },
     {
       title: ` Conference & Journal Papers `,
-      abstract: `
-      <div>
-    <ul>
-      <li> <strong>On the Role of Long-tail Knowledge in Retrieval Augmented Large Language Models</strong> <br>
-      <strong>Dongyang Li</strong>, Junbing Yan, Taolin Zhang, Chengyu Wang, Xiaofeng He, Longtao Huang, Hui Xue, Jun Huang<br>
-      <strong>ACL 2024 (CCF-A)</strong>
-      </li>
-      <li> <strong>HiCLRE: A Hierarchical Contrastive Learning Framework for Distantly Supervised Relation Extraction</strong><br>
-      <strong>Dongyang Li</strong>, Taolin Zhang, Nan Hu, Chengyu Wang, Xiaofeng He<br>
-      <strong>ACL 2022 (CCF-A)</strong> 
-      </li>
-      <li> <strong>Mnemosyne: Accelerating Multi-Hop Question Answering via Cache Hit Order Fitting</strong><br>
-      Haizhou Du, Jiujiu Li, <strong>Dongyang Li<sup>✉</sup><strong>, Luobin Huang, Lisheng Wang<br>
-      <strong>AAAI 2026 (CCF-A)</strong> 
-      </li>
-      <ul>
-      </div>
-      `,
+      abstract: `abc`,
     link: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
     },
   ],
