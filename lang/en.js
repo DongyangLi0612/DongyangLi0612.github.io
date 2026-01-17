@@ -17,7 +17,7 @@ const enHomePageData = {
   <div>
     <p> I'm a lecturer at Faculty of Artificial Intelligence, Shanghai University of Electric Power. I have obtained my Ph.D degree from East China Normal University (ECNU), supervised by Prof. Xiaofeng He. 
     Currently, my research interests are large language models (Text-Modal & Multi-Modal) and multi-agent system. 
-    I have published papers in top-tier international conferences and journals, such as ACL, AAAI, EMNLP, COLING, KBS, ECAI, etc.
+    I have published papers in top-tier international conferences and journals, such as ACL, AAAI, EMNLP, COLING, KBS, ECAI, etc.3
     </p>
     <h2 class='title'> Research Interests </h2>
     <p><strong>Looking for master’s students to work on large language models, multi-agent system! </strong> </p>
@@ -144,6 +144,15 @@ const enPublicationsPageData = {
   //   }
   // ],
   type_one_items: [
+     {
+      title: `Dancing to the beat of climate change: Studying visual frames on TikTok through the left-right divide among U.S. politicians (with ).`,
+      abstract: `Politicians across the political spectrum have taken to TikTok in an attempt to reach young voters by producing original videos. This novel trend has turned TikTok into the new polarizing ring in the political communication battle, deepening the partisan breach around issues such as climate change. However`,
+      date: "",
+      link: "http://link.com",
+      github: "",
+      download: "",
+      writers: ["Claudio Cioffi-Revilla", "masoud Claudio "],
+    },
     {
       title: ` Conference & Journal Papers `,
       abstract: `
