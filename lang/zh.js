@@ -169,19 +169,19 @@ const zhPublicationsPageData = {
     
   ],
  
-  type_two_title: `Research Projects`,
-  type_two_items: [
-    {
-      title: `The Innovation Special Fund Project in Shanghai University of Electric Power (No. X202511010).`,
-      date: "2025-2027",
-      writers: ["Dongyang Li"],
-    },
-    {
-      title: `The Commercial Research Project “Large Language Model–Based Intelligent Operation and Maintenance Knowledge Platform for Power Grid Equipment“ (No. H2025-220).`,
-      date: "2025-2026",
-      writers: ["Dongyang Li"],
-    },
-  ],
+  type_two_title: `<strong style="text-decoration: underline;">Looking for master’s students to work on large language models, multi-agent system! </strong>`,
+  // type_two_items: [
+  //   {
+  //     title: `The Innovation Special Fund Project in Shanghai University of Electric Power (No. X202511010).`,
+  //     date: "2025-2027",
+  //     writers: ["Dongyang Li"],
+  //   },
+  //   {
+  //     title: `The Commercial Research Project “Large Language Model–Based Intelligent Operation and Maintenance Knowledge Platform for Power Grid Equipment“ (No. H2025-220).`,
+  //     date: "2025-2026",
+  //     writers: ["Dongyang Li"],
+  //   },
+  // ],
 
 
   // type_three_title: "Book Chapters",
