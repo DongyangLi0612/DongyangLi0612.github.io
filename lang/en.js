@@ -48,10 +48,34 @@ const enPublicationsPageData = {
       writers: ["<strong>[ACL 2022, CCF-A]</strong>",],
     },
     {
+      title: `DCTR: Dual-Constraint Subgraph Optimization for Knowledge Graph-based Retrieval-Augmented Generation`,
+      abstract: `Yukun Cao, Zirui Xu, <strong>Dongyang Li<sup>✉</sup><strong>, Zhihao Guo, Luobin Huang, Lisheng Wang`,
+      link: "https://aclanthology.org/2022.findings-acl.202/",
+      writers: ["<strong>AAAI 2026 (CCF-A)</strong>",],
+    },
+    {
       title: `Mnemosyne: Accelerating Multi-Hop Question Answering via Cache Hit Order Fitting`,
       abstract: `Haizhou Du, Jiujiu Li, <strong>Dongyang Li<sup>✉</sup><strong>, Luobin Huang, Lisheng Wang`,
       link: "https://aclanthology.org/2022.findings-acl.202/",
       writers: ["<strong>AAAI 2026 (CCF-A)</strong>",],
+    },
+    {
+      title: `KEHRL: Learning Knowledge-Enhanced Language Representations with Hierarchical Reinforcement Learning`,
+      abstract: `<strong>Dongyang Li</strong>, Taolin Zhang, Longtao Huang, Chengyu Wang, Xiaofeng He, Hui Xue`,
+      link: "https://aclanthology.org/2024.lrec-main.847/",
+      writers: ["<strong>COLING 2024 (CCF-B)</strong>",],
+    },
+    {
+      title: `UniPSDA: Unsupervised Pseudo Semantic Data Augmentation for Zero-Shot Cross-Lingual Natural Language Understanding`,
+      abstract: `<strong>Dongyang Li</strong>, Taolin Zhang, Jiali Deng, Longtao Huang, Chengyu Wang, Xiaofeng He, Hui Xue`,
+      link: "https://aclanthology.org/2024.lrec-main.1482/",
+      writers: ["<strong>COLING 2024 (CCF-B)</strong>",],
+    },
+    {
+      title: `MCFC: A Momentum-Driven Clicked Feature Compressed Pre-trained Language Model for Information Retrieval`,
+      abstract: `<strong>Dongyang Li</strong>, Ruixue Ding, Pengjun Xie, Xiaofeng He`,
+      link: "https://link.springer.com/chapter/10.1007/978-981-97-9431-7_6",
+      writers: ["<strong>NLPCC 2024 (CCF-C)</strong>",],
     },
   ],
  
