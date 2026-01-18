@@ -165,7 +165,7 @@ x@font-face {
 }
 
 .publication_container {
-  margin-top: 3rem;
+  margin-top: 1rem;
 }
 
 .publication_container .publications_header {
@@ -173,7 +173,7 @@ x@font-face {
 }
 
 .publication_container .publications_header span {
-  font-style: italic;
+  /* font-style: italic; */
   font-size: 1rem;
 }
 
