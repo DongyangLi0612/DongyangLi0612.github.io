@@ -175,13 +175,11 @@ const enPublicationsPageData = {
   type_two_items: [
     {
       title: `The Innovation Special Fund Project in Shanghai University of Electric Power (No. X202511010).`,
-      date: "2025-2027",
-      writers: ["Dongyang Li"],
+      abstract: "Dongyang Li  2025-2027",
     },
     {
       title: `The Commercial Research Project “Large Language Model–Based Intelligent Operation and Maintenance Knowledge Platform for Power Grid Equipment“ (No. H2025-220).`,
-      date: "2025-2026",
-      writers: ["Dongyang Li"],
+      abstract: "Dongyang Li 2025-2026",
     },
   ],
 
