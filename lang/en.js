@@ -16,6 +16,7 @@ const enHomePageData = {
   home_content: `
   <div>
     <p> I'm a lecturer at Faculty of Artificial Intelligence, Shanghai University of Electric Power. I have obtained my Ph.D degree from East China Normal University (ECNU), supervised by Prof. Xiaofeng He. 
+    I did my master at school of computer science, Chang'an University, advised by Prof. Shaoyang Zhang.
     Currently, my research interests are large language models (Text-Modal & Multi-Modal) and multi-agent system. 
     I have published papers in top-tier international conferences and journals, such as ACL, AAAI, EMNLP, COLING, KBS, ECAI, etc.
     </p>
@@ -37,22 +38,20 @@ const enPublicationsPageData = {
      {
       title: `On the Role of Long-tail Knowledge in Retrieval Augmented Large Language Models`,
       abstract: `<strong>Dongyang Li</strong>, Junbing Yan, Taolin Zhang, Chengyu Wang, Xiaofeng He, Longtao Huang, Hui Xue, Jun Huang`,
-      date: "",
-      link: "http://link.com",
+      link: "https://aclanthology.org/2024.acl-short.12/",
       writers: ["<strong>[ACL 2024, CCF-A]</strong>",],
     },
     {
-      title: `On the Role of Long-tail Knowledge in Retrieval Augmented Large Language Models`,
-      abstract: `<strong>Dongyang Li</strong>, Junbing Yan, Taolin Zhang, Chengyu Wang, Xiaofeng He, Longtao Huang, Hui Xue, Jun Huang`,
-      date: "",
-      download: "",
-      writers: ["<strong>[ACL 2024, CCF-A]</strong>",],
+      title: `HiCLRE: A Hierarchical Contrastive Learning Framework for Distantly Supervised Relation Extraction`,
+      abstract: `<strong>Dongyang Li</strong>, Taolin Zhang, Nan Hu, Chengyu Wang, Xiaofeng He`,
+      link: "https://aclanthology.org/2022.findings-acl.202/",
+      writers: ["<strong>[ACL 2022, CCF-A]</strong>",],
     },
     {
-      title: `On the Role of Long-tail Knowledge in Retrieval Augmented Large Language Models`,
-      abstract: `<strong>Dongyang Li</strong>, Junbing Yan, Taolin Zhang, Chengyu Wang, Xiaofeng He, Longtao Huang, Hui Xue, Jun Huang`,
-      download: "",
-      writers: ["<strong>[ACL 2024, CCF-A]</strong>",],
+      title: `Mnemosyne: Accelerating Multi-Hop Question Answering via Cache Hit Order Fitting`,
+      abstract: `Haizhou Du, Jiujiu Li, <strong>Dongyang Li<sup>✉</sup><strong>, Luobin Huang, Lisheng Wang`,
+      link: "https://aclanthology.org/2022.findings-acl.202/",
+      writers: ["<strong>AAAI 2026 (CCF-A)</strong>",],
     },
   ],
  
