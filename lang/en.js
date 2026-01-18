@@ -16,8 +16,8 @@ const enHomePageData = {
   home_content: `
   <div>
     <p> I'm a lecturer at Faculty of Artificial Intelligence, Shanghai University of Electric Power. I have obtained my Ph.D degree from East China Normal University (ECNU), supervised by 
-    <a href="https://faculty.ecnu.edu.cn/_s16/hxf/main.psp" target="_blank" class="link">Prof. Xiaofeng He</a>. 
-    I did my master at school of computer science, Chang'an University, advised by <a href="https://js.chd.edu.cn/xxgcxy/zsy100/list.htm" target="_blank" class="link">Prof. Shaoyang Zhang</a>.
+    <a href="https://faculty.ecnu.edu.cn/_s16/hxf/main.psp" target="_blank" class="link" style="color: inherit; text-decoration: underline;">Prof. Xiaofeng He</a>. 
+    I did my master at school of computer science, Chang'an University, advised by <a href="https://js.chd.edu.cn/xxgcxy/zsy100/list.htm" target="_blank" class="link" style="color: inherit; text-decoration: underline;" >Prof. Shaoyang Zhang</a>.
     Currently, my research interests are large language models (Text-Modal & Multi-Modal) and multi-agent system. 
     I have published papers in top-tier international conferences and journals, such as ACL, AAAI, EMNLP, COLING, KBS, ECAI, etc. 
     </p>
