@@ -156,7 +156,7 @@ const enPublicationsPageData = {
     {
       title: ` Conference & Journal Papers `,
       abstract: `abc`,
-    link: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
+      link: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
     },
   ],
  
