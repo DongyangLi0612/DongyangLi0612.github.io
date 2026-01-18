@@ -174,15 +174,14 @@ const enPublicationsPageData = {
   type_two_title: `Research Projects`,
   type_two_items: [
     {
-      title: `Elena Reinaga. 2016. If I were born again I would still be a sex worker. P. Purdy and N. Umansky. OpenDemocracy.`,
-      date: "1996",
-      writers: [],
+      title: `The Innovation Special Fund Project in Shanghai University of Electric Power (No. X202511010).`,
+      date: "2025-2027",
+      writers: ["Dongyang Li"],
     },
     {
-      title: `“Now you are speaking my language” Language-specific transparency and legislative negotiations in the Council of Ministers of the European Union. (with ).`,
-      abstract: `we adopt an elite-focused approach to explore the ways in which left and right-leaning American political elites differ in their visual and emotional framing of climate change. Overall, this study provides new insight into how politicians across party lines communicate about critical and polarizing political issues, such as climate change, by adapting to novel online communication channels.`,
-      date: "1996",
-      writers: ["Claudio Cioffi-Revilla", "masoud Claudio "],
+      title: `The Commercial Research Project “Large Language Model–Based Intelligent Operation and Maintenance Knowledge Platform for Power Grid Equipment“ (No. H2025-220).`,
+      date: "2025-2026",
+      writers: ["Dongyang Li"],
     },
   ],
 
