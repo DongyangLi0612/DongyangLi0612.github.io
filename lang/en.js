@@ -15,13 +15,14 @@ const enHomePageData = {
   home_title: "About me",
   home_content: `
   <div>
-    <p> I'm a lecturer at Faculty of Artificial Intelligence, Shanghai University of Electric Power. I have obtained my Ph.D degree from East China Normal University (ECNU), supervised by Prof. Xiaofeng He. 
-    I did my master at school of computer science, Chang'an University, advised by Prof. Shaoyang Zhang.
+    <p> I'm a lecturer at Faculty of Artificial Intelligence, Shanghai University of Electric Power. I have obtained my Ph.D degree from East China Normal University (ECNU), supervised by 
+    <a href="https://faculty.ecnu.edu.cn/_s16/hxf/main.psp" target="_blank" class="link">Prof. Xiaofeng He</a>. 
+    I did my master at school of computer science, Chang'an University, advised by <a href="https://js.chd.edu.cn/xxgcxy/zsy100/list.htm" target="_blank" class="link">Prof. Shaoyang Zhang</a>.
     Currently, my research interests are large language models (Text-Modal & Multi-Modal) and multi-agent system. 
-    I have published papers in top-tier international conferences and journals, such as ACL, AAAI, EMNLP, COLING, KBS, ECAI, etc. <strong>123</strong>
+    I have published papers in top-tier international conferences and journals, such as ACL, AAAI, EMNLP, COLING, KBS, ECAI, etc. 
     </p>
     <h2 class='title'> Research Interests </h2>
-    <p><strong>Looking for master’s students to work on large language models, multi-agent system! </strong> </p>
+    <p><strong style="text-decoration: underline;">Looking for master’s students to work on large language models, multi-agent system! </strong> </p>
     <ul>
       <li> Large Language Models (Text-Modal & Multi-Modal)</li>
       <li> Multi-Agent System </li>
