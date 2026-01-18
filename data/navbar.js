@@ -6,32 +6,32 @@ $(document).ready(function () {
   }
 
   const navbar_data = {
-    title: lang === "fa" ? faNavbarData.title : enNavbarData.title,
+    title: lang === "zh" ? zhNavbarData.title : enNavbarData.title,
     navbar_links: [
       {
         active: navbarLinks.home ? true : false,
-        title: lang === "fa" ? faNavbarData.Home : enNavbarData.Home,
+        title: lang === "zh" ? zhNavbarData.Home : enNavbarData.Home,
         url: "/",
       },
       {
         active: navbarLinks.publications ? true : false,
         title:
-          lang === "fa" ? faNavbarData.publications : enNavbarData.publications,
+          lang === "zh" ? zhNavbarData.publications : enNavbarData.publications,
         url: "/publications.html",
       },
       {
         active: navbarLinks.research ? true : false,
-        title: lang === "fa" ? faNavbarData.Research : enNavbarData.Research,
+        title: lang === "zh" ? zhNavbarData.Research : enNavbarData.Research,
         url: "/research.html",
       },
       {
         active: navbarLinks.jobs ? true : false,
-        title: lang === "fa" ? faNavbarData.Jobs : enNavbarData.Jobs,
+        title: lang === "zh" ? zhNavbarData.Jobs : enNavbarData.Jobs,
         url: "/jobs.html",
       },
       {
         active: navbarLinks.contact ? true : false,
-        title: lang === "fa" ? faNavbarData.Contact : enNavbarData.Contact,
+        title: lang === "zh" ? zhNavbarData.Contact : enNavbarData.Contact,
         url: "/contact.html",
       },
     ],
