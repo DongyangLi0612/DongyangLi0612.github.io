@@ -22,7 +22,7 @@ const enHomePageData = {
     I have published papers in top-tier international conferences and journals, such as ACL, AAAI, EMNLP, COLING, KBS, ECAI, etc. 
     </p>
     <h2 class='title'> Research Interests </h2>
-    <p><strong style="text-decoration: underline;">Looking for master’s students to work on large language models, multi-agent system! </strong> </p>
+    <p><strong><span style="color: rgb(178,102,165);">Looking for master’s students to work on large language models, multi-agent system! </span></strong> </p>
     <ul>
       <li> Large Language Models (Text-Modal & Multi-Modal)</li>
       <li> Multi-Agent System </li>
@@ -183,7 +183,7 @@ const enPublicationsPageData = {
     },
   ],
 
-  // type_three_title: "Book Chapters",
+  type_three_title: "<strong style="text-decoration: underline;">Looking for master’s students to work on large language models, multi-agent system! </strong>",
   // type_three_items: [
   //   {
   //     title: `Elena Reinaga. 2016. If I were born again I would still be a sex worker. P. Purdy and N. Umansky. OpenDemocracy.`,
