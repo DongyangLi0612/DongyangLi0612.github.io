@@ -39,25 +39,25 @@ const enPublicationsPageData = {
       title: `On the Role of Long-tail Knowledge in Retrieval Augmented Large Language Models`,
       abstract: `<strong>Dongyang Li</strong>, Junbing Yan, Taolin Zhang, Chengyu Wang, Xiaofeng He, Longtao Huang, Hui Xue, Jun Huang`,
       download: "https://aclanthology.org/2024.acl-short.12/",
-      writers: ["<strong>[ACL 2024, CCF-A]</strong>",],
+      writers: ["<strong>[ACL 2024, CCF-A]   </strong>",],
     },
     {
       title: `HiCLRE: A Hierarchical Contrastive Learning Framework for Distantly Supervised Relation Extraction`,
       abstract: `<strong>Dongyang Li</strong>, Taolin Zhang, Nan Hu, Chengyu Wang, Xiaofeng He`,
       download: "https://aclanthology.org/2022.findings-acl.202/",
-      writers: ["<strong>[ACL 2022, CCF-A]</strong>",],
+      writers: ["<strong>[ACL 2022, CCF-A]   </strong>",],
     },
     {
       title: `DCTR: Dual-Constraint Subgraph Optimization for Knowledge Graph-based Retrieval-Augmented Generation`,
       abstract: `Yukun Cao, Zirui Xu, <strong>Dongyang Li<sup>✉</sup> </strong>, Zhihao Guo, Luobin Huang, Lisheng Wang`,
       download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
-      writers: ["<strong>[AAAI 2026, CCF-A]</strong>",],
+      writers: ["<strong>[AAAI 2026, CCF-A]   </strong>",],
     },
     {
       title: `Mnemosyne: Accelerating Multi-Hop Question Answering via Cache Hit Order Fitting`,
       abstract: `Haizhou Du, Jiujiu Li, <strong>Dongyang Li<sup>✉</sup></strong>, Luobin Huang, Lisheng Wang`,
       download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
-      writers: ["<strong>[AAAI 2026, CCF-A]</strong>",],
+      writers: ["<strong>[AAAI 2026, CCF-A]   </strong>",],
     },
     {
       title: `KEHRL: Learning Knowledge-Enhanced Language Representations with Hierarchical Reinforcement Learning`,
@@ -103,7 +103,7 @@ const enPublicationsPageData = {
     },
      {
       title: `Question-Aware Spatial-Temporal Reasoning in Patch for Audio-Visual Question Answering`,
-      abstract: `Feifei Xu, Wenjing Zhu, <strong>Dongyang Li<sup>✉</sup><s/trong>, and Puzhe Li`,
+      abstract: `Feifei Xu, Wenjing Zhu, <strong>Dongyang Li<sup>✉</sup></strong>, and Puzhe Li`,
       download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
       writers: ["<strong>[MMM 2026, CCF-C]</strong>",],
     },
