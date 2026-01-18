@@ -17,7 +17,7 @@ const enHomePageData = {
   <div>
     <p> I'm a lecturer at Faculty of Artificial Intelligence, Shanghai University of Electric Power. I have obtained my Ph.D degree from East China Normal University (ECNU), supervised by Prof. Xiaofeng He. 
     Currently, my research interests are large language models (Text-Modal & Multi-Modal) and multi-agent system. 
-    I have published papers in top-tier international conferences and journals, such as ACL, AAAI, EMNLP, COLING, KBS, ECAI, etc.3
+    I have published papers in top-tier international conferences and journals, such as ACL, AAAI, EMNLP, COLING, KBS, ECAI, etc.
     </p>
     <h2 class='title'> Research Interests </h2>
     <p><strong>Looking for master’s students to work on large language models, multi-agent system! </strong> </p>
@@ -35,18 +35,24 @@ const enPublicationsPageData = {
   type_one_title: "Conference & Journal Papers",
   type_one_items: [
      {
-      title: `<strong>On the Role of Long-tail Knowledge in Retrieval Augmented Large Language Models</strong>`,
+      title: `On the Role of Long-tail Knowledge in Retrieval Augmented Large Language Models`,
       abstract: `<strong>Dongyang Li</strong>, Junbing Yan, Taolin Zhang, Chengyu Wang, Xiaofeng He, Longtao Huang, Hui Xue, Jun Huang`,
       date: "",
       link: "http://link.com",
-      github: "",
-      download: "",
-      writers: ["[ACL 2024, CCF-A]",],
+      writers: ["<strong>[ACL 2024, CCF-A]</strong>",],
     },
     {
-      title: ` Conference & Journal Papers `,
-      abstract: `abc`,
-      link: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
+      title: `On the Role of Long-tail Knowledge in Retrieval Augmented Large Language Models`,
+      abstract: `<strong>Dongyang Li</strong>, Junbing Yan, Taolin Zhang, Chengyu Wang, Xiaofeng He, Longtao Huang, Hui Xue, Jun Huang`,
+      date: "",
+      download: "",
+      writers: ["<strong>[ACL 2024, CCF-A]</strong>",],
+    },
+    {
+      title: `On the Role of Long-tail Knowledge in Retrieval Augmented Large Language Models`,
+      abstract: `<strong>Dongyang Li</strong>, Junbing Yan, Taolin Zhang, Chengyu Wang, Xiaofeng He, Longtao Huang, Hui Xue, Jun Huang`,
+      download: "",
+      writers: ["<strong>[ACL 2024, CCF-A]</strong>",],
     },
   ],
  
