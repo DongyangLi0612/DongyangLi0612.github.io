@@ -171,19 +171,20 @@ const enPublicationsPageData = {
     
   ],
  
-  type_two_title: `Research Projects`,
-  type_two_items: [
-    {
-      title: `The Innovation Special Fund Project in Shanghai University of Electric Power (No. X202511010).`,
-      abstract: "Dongyang Li  2025-2027",
-    },
-    {
-      title: `The Commercial Research Project “Large Language Model–Based Intelligent Operation and Maintenance Knowledge Platform for Power Grid Equipment“ (No. H2025-220).`,
-      abstract: "Dongyang Li 2025-2026",
-    },
-  ],
+  type_two_title: `<strong style="text-decoration: underline;">Looking for master’s students to work on large language models, multi-agent system! </strong>`,
+  // type_two_title: `Research Projects`,
+  // type_two_items: [
+  //   {
+  //     title: `The Innovation Special Fund Project in Shanghai University of Electric Power (No. X202511010).`,
+  //     abstract: "Dongyang Li  2025-2027",
+  //   },
+  //   {
+  //     title: `The Commercial Research Project “Large Language Model–Based Intelligent Operation and Maintenance Knowledge Platform for Power Grid Equipment“ (No. H2025-220).`,
+  //     abstract: "Dongyang Li 2025-2026",
+  //   },
+  // ],
 
-  type_three_title: "<strong style="text-decoration: underline;">Looking for master’s students to work on large language models, multi-agent system! </strong>",
+  // type_three_title: "<strong style="text-decoration: underline;">Looking for master’s students to work on large language models, multi-agent system! </strong>",
   // type_three_items: [
   //   {
   //     title: `Elena Reinaga. 2016. If I were born again I would still be a sex worker. P. Purdy and N. Umansky. OpenDemocracy.`,
