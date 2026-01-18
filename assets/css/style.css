@@ -207,7 +207,8 @@ x@font-face {
 .publication_container .publications_footer {
   margin-bottom: 0.5rem;
   list-style: none;
-  display: flex;
+  /* display: flex; */
+  display: none;
   align-items: center;
   justify-content: flex-start;
   margin: 0;
