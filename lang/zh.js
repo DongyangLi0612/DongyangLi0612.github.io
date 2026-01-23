@@ -90,6 +90,12 @@ const zhPublicationsPageData = {
       writers: ["<strong>[ACL 2024, CCF-A]</strong>",],
     },
     {
+      title: `DSVM-UNet : Enhancing VM-UNet with Dual Self-distillation for Medical Image Segmentation`,
+      abstract: `Renrong Shao, <strong>Dongyang Li</strong>, Dong Xia, Lin Shao, Jiangdong Lu, Fen Zheng, Lulu Zhang`,
+      download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
+      writers: ["<strong>[ICASSP 2026, CCF-B]</strong>",],
+    },
+    {
       title: `R4: Reinforced Retriever-Reorder-Responder for Retrieval-Augmented Large Language Models`,
       abstract: `Taolin Zhang, <strong>Dongyang Li (Co-first author)</strong>, Qizhou Chen, Chengyu Wang, Longtao Huang, Hui Xue, Xiaofeng He, Jun Huang`,
       download: "https://arxiv.org/abs/2405.02659",
