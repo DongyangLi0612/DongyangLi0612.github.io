@@ -96,6 +96,12 @@ const enPublicationsPageData = {
       download: "https://arxiv.org/abs/2405.02659",
       writers: ["<strong>[ECAI 2024, CCF-B]</strong>",],
     },
+    {
+      title: `LH-DETR: A Lightweight Hybrid Architecture for End-to-End Object Detection in UAV Images`,
+      abstract: `Feifei Xu, Lupeng Sun, <strong>Dongyang Li<sup>✉</sup></strong>, Guoxiang Wu, Chenchuan Lv`,
+      download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
+      writers: ["<strong>[ICRA 2026, CCF-B]</strong>",],
+    },
      {
       title: `Text-Driven Hybrid Curriculum Learning for Multimodal Sentiment Analysis`,
       abstract: `Feifei Xu, Puzhe Li, <strong>Dongyang Li<sup>✉</sup></strong>, Luobin Huang, and Wenjing Zhu`,
