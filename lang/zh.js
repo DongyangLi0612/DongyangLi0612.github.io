@@ -18,7 +18,7 @@ const zhHomePageData = {
     <p> 李东阳，女，工学博士，现为上海电力大学人工智能学院讲师。于2024年在华东师范大学（ECNU）获得博士学位，导师为<a href="https://faculty.ecnu.edu.cn/_s16/hxf/main.psp" target="_blank" class="link" style="color: inherit; text-decoration: underline;">何晓丰教授</a>。
     硕士毕业于长安大学，师从<a href="https://js.chd.edu.cn/xxgcxy/zsy100/list.htm" target="_blank" class="link" style="color: inherit; text-decoration: underline;" >张绍阳教授</a>。
 研究兴趣包括大模型（文本模态、多模态）、多智能体以及知识增强的语言模型。
-已在国际顶级会议和期刊上发表20余篇论文，包括 ACL、AAAI、EMNLP、COLING、KBS、ECAI 等。
+已在国际顶级会议和期刊上发表20余篇论文，包括 ACL、AAAI、EMNLP、COLING、ICRA、KBS、ECAI 等。
     </p>
     <h2 class='title'> Research Interests </h2>
     <p><span style="color: rgb(178,102,165);">招收硕士研究生，如有兴趣欢迎联系沟通！</span> </p>
