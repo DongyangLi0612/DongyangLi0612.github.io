@@ -124,7 +124,7 @@ const enPublicationsPageData = {
       title: `Periodicity Variations Modelling Based on 2D Multi‐Scale Patch for Multivariate Time Series Forecasting Using Improved MLP and Depthwise Separable Convolution`,
       abstract: `Yachuan Wang, Mi Wen, <strong>Dongyang Li<sup>✉</sup></strong>, Jigang Wang`,
       download: "https://www.semanticscholar.org/paper/Periodicity-Variations-Modelling-Based-on-2D-Patch-Wang-Wen/7b67b19a0219f70f8b0cf22540506a64e23be196",
-      writers: ["<strong>[CS 2026, SCI Q4 Journal]</strong>",],
+      writers: ["<strong>[Expert Systems 2026, SCI Q4 Journal]</strong>",],
     },
     {
       title: `CUOM: A Causal Unbiased Optimization Method for Federated Domain`,
