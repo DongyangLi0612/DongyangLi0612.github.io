@@ -51,13 +51,13 @@ const enPublicationsPageData = {
     {
       title: `DCTR: Dual-Constraint Subgraph Optimization for Knowledge Graph-based Retrieval-Augmented Generation`,
       abstract: `Yukun Cao, Zirui Xu, <strong>Dongyang Li<sup>✉</sup> </strong>, Zhihao Guo, Luobin Huang, Lisheng Wang`,
-      download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
+      download: "https://ojs.aaai.org/index.php/AAAI/article/view/40265",
       writers: ["<strong>[AAAI 2026, CCF-A]   </strong>",],
     },
     {
       title: `Mnemosyne: Accelerating Multi-Hop Question Answering via Cache Hit Order Fitting`,
       abstract: `Haizhou Du, Jiujiu Li, <strong>Dongyang Li<sup>✉</sup></strong>, Luobin Huang, Lisheng Wang`,
-      download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
+      download: "https://ojs.aaai.org/index.php/AAAI/article/view/40310",
       writers: ["<strong>[AAAI 2026, CCF-A]   </strong>",],
     },
     {
@@ -145,6 +145,12 @@ const enPublicationsPageData = {
       writers: ["<strong>[Information Sciences, SCI Q2 Journal]</strong>",],
     },
     {
+      title: `AMATA: Adaptive Multi-Agent Trajectory Alignment for Knowledge-Intensive Question Answering`,
+      abstract: `Taolin Zhang, <strong>Dongyang Li</strong>, Chen Chen, Qizhou Chen, Jiuheng Wan, Xiaofeng He, Chengyu Wang, Richang Hong`,
+      download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
+      writers: ["<strong>[ACL 2026, CCF-A]</strong>",],
+    },
+    {
       title: `BELLE: A Bi-Level Multi-Agent Reasoning Framework for Multi-Hop Question Answering`,
       abstract: `Taolin Zhang, <strong>Dongyang Li</strong>, Qizhou Chen, Chengyu Wang, Xiaofeng He`,
       download: "https://aclanthology.org/2025.acl-long.211/",
@@ -167,6 +173,12 @@ const enPublicationsPageData = {
       abstract: `Jiali Deng, <strong>Dongyang Li</strong>, Taolin Zhang, Xiaofeng He`,
       download: "https://dl.acm.org/doi/10.1007/978-3-031-44696-2_56",
       writers: ["<strong>[NLPCC 2023, CCF-C]</strong>",],
+    },
+    {
+      title: `QueueEDIT: Structural Self-Correction for Sequential Model Editing in LLMs`,
+      abstract: `Taolin Zhang, Haidong Kang, <strong>Dongyang Li</strong>, Qizhou Chen, Xiaofeng He, Chengyu Wang, Richang Hong`,
+      download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
+      writers: ["<strong>[ACL 2026, CCF-A]</strong>",],
     },
     {
       title: `CIDR: A Cooperative Integrated Dynamic Refining Method for Minimal Feature Removal Problem`,
