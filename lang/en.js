@@ -102,6 +102,18 @@ const enPublicationsPageData = {
       download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
       writers: ["<strong>[ICRA 2026, CCF-B]</strong>",],
     },
+    {
+      title: `A Unified Object-Centric Spatio-Temporal Graph Reasoning Framework for Audio-Visual Question Answering`,
+      abstract: `Feifei Xu, Wenjing Zhu, <strong>Dongyang Li<sup>✉</sup></strong>, Puzhe Li, Luobin Huang, Yu Xie, Zirui Xu`,
+      download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
+      writers: ["<strong>[ICMR 2026, CCF-B]</strong>",],
+    },
+    {
+      title: `From Confrontion to Balance: A Kronecker-Constrained Spectral Entropy Joint Optimization Framework for Multimodal Sentiment Analysis`,
+      abstract: `Feifei Xu, Puzhe Li, <strong>Dongyang Li<sup>✉</sup></strong>, Bo Li, Luobin Huang, Wenjing Zhu, Zirui Xu, Yu Xie`,
+      download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
+      writers: ["<strong>[ICMR 2026, CCF-B]</strong>",],
+    },
      {
       title: `Text-Driven Hybrid Curriculum Learning for Multimodal Sentiment Analysis`,
       abstract: `Feifei Xu, Puzhe Li, <strong>Dongyang Li<sup>✉</sup></strong>, Luobin Huang, and Wenjing Zhu`,
