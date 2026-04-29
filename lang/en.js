@@ -154,7 +154,7 @@ const enPublicationsPageData = {
       title: `Taming the Long Tail in Federated Learning: A Unified Global and Personalized Model Framework`,
       abstract: `Pengsong Zhang, Mi Wen, Zhou Zhu, <strong>Dongyang Li</strong>`,
       download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
-      writers: ["<strong>[Information Sciences, SCI Q2 Journal]</strong>",],
+      writers: ["<strong>[Information Sciences, SCI Q1 Journal]</strong>",],
     },
     {
       title: `AMATA: Adaptive Multi-Agent Trajectory Alignment for Knowledge-Intensive Question Answering`,
