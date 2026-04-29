@@ -137,6 +137,12 @@ const zhPublicationsPageData = {
       download: "https://www.semanticscholar.org/paper/Periodicity-Variations-Modelling-Based-on-2D-Patch-Wang-Wen/7b67b19a0219f70f8b0cf22540506a64e23be196",
       writers: ["<strong>[Expert Systems 2026, SCI Q4 Journal]</strong>",],
     },
+     {
+      title: `AMATA: Adaptive Multi-Agent Trajectory Alignment for Knowledge-Intensive Question Answering`,
+      abstract: `Taolin Zhang, <strong>Dongyang Li</strong>, Chen Chen, Qizhou Chen, Jiuheng Wan, Xiaofeng He, Chengyu Wang, Richang Hong`,
+      download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
+      writers: ["<strong>[ACL, CCF-A]</strong>",],
+    },
     {
       title: `CUOM: A Causal Unbiased Optimization Method for Federated Domain`,
       abstract: `Mi Wen, Kang Han, <strong>Dongyang Li</strong>, QiYe Cai, HaiLun Shen`,
@@ -154,12 +160,6 @@ const zhPublicationsPageData = {
       abstract: `Pengsong Zhang, Mi Wen, Zhou Zhu, <strong>Dongyang Li</strong>`,
       download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
       writers: ["<strong>[Information Sciences, SCI Q1 Journal]</strong>",],
-    },
-    {
-      title: `AMATA: Adaptive Multi-Agent Trajectory Alignment for Knowledge-Intensive Question Answering`,
-      abstract: `Taolin Zhang, <strong>Dongyang Li</strong>, Chen Chen, Qizhou Chen, Jiuheng Wan, Xiaofeng He, Chengyu Wang, Richang Hong`,
-      download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
-      writers: ["<strong>[ACL 2026, CCF-A]</strong>",],
     },
     {
       title: `BELLE: A Bi-Level Multi-Agent Reasoning Framework for Multi-Hop Question Answering`,
