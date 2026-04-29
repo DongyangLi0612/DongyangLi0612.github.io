@@ -139,6 +139,12 @@ const enPublicationsPageData = {
       writers: ["<strong>[Expert Systems 2026, SCI Q4 Journal]</strong>",],
     },
     {
+      title: `AMATA: Adaptive Multi-Agent Trajectory Alignment for Knowledge-Intensive Question Answering`,
+      abstract: `Taolin Zhang, <strong>Dongyang Li</strong>, Chen Chen, Qizhou Chen, Jiuheng Wan, Xiaofeng He, Chengyu Wang, Richang Hong`,
+      download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
+      writers: ["<strong>[ACL, CCF-A]</strong>",],
+    },
+    {
       title: `CUOM: A Causal Unbiased Optimization Method for Federated Domain`,
       abstract: `Mi Wen, Kang Han, <strong>Dongyang Li</strong>, QiYe Cai, HaiLun Shen`,
       download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
@@ -155,12 +161,6 @@ const enPublicationsPageData = {
       abstract: `Pengsong Zhang, Mi Wen, Zhou Zhu, <strong>Dongyang Li</strong>`,
       download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
       writers: ["<strong>[Information Sciences, SCI Q1 Journal]</strong>",],
-    },
-    {
-      title: `AMATA: Adaptive Multi-Agent Trajectory Alignment for Knowledge-Intensive Question Answering`,
-      abstract: `Taolin Zhang, <strong>Dongyang Li</strong>, Chen Chen, Qizhou Chen, Jiuheng Wan, Xiaofeng He, Chengyu Wang, Richang Hong`,
-      download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
-      writers: ["<strong>[ACL 2026, CCF-A]</strong>",],
     },
     {
       title: `BELLE: A Bi-Level Multi-Agent Reasoning Framework for Multi-Hop Question Answering`,
