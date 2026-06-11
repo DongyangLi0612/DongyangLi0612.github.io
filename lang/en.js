@@ -19,7 +19,7 @@ const enHomePageData = {
     <a href="https://faculty.ecnu.edu.cn/_s16/hxf/main.psp" target="_blank" class="link" style="color: inherit; text-decoration: underline;">Prof. Xiaofeng He</a>. 
     I did my master at school of computer science, Chang'an University, advised by <a href="https://js.chd.edu.cn/xxgcxy/zsy100/list.htm" target="_blank" class="link" style="color: inherit; text-decoration: underline;" >Prof. Shaoyang Zhang</a>.
     Currently, my research interests are large language models (Text-Modal & Multi-Modal) and multi-agent system. 
-    I have published 30 papers in top-tier international conferences and journals, such as NIPS, ACL, AAAI, EMNLP, COLING, ICRA, KBS, ECAI, etc. 
+    I have published 30 papers in top-tier international conferences and journals, such as ACL, AAAI, EMNLP, COLING, ICRA, KBS, ECAI, etc. 
     </p>
     <h2 class='title'> Research Interests </h2>
     <p><strong><span style="color: rgb(178,102,165);">Looking for master’s students to work on large language models, multi-agent system! </span></strong> </p>
