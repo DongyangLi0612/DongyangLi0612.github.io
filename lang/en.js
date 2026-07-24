@@ -79,18 +79,6 @@ const enPublicationsPageData = {
       writers: ["<strong>[COLING 2024, CCF-B]</strong>",],
     },
     {
-      title: `MCFC: A Momentum-Driven Clicked Feature Compressed Pre-trained Language Model for Information Retrieval`,
-      abstract: `<strong>Dongyang Li</strong>, Ruixue Ding, Pengjun Xie, Xiaofeng He`,
-      download: "https://link.springer.com/chapter/10.1007/978-981-97-9431-7_6",
-      writers: ["<strong>[NLPCC 2024, CCF-C]</strong>",],
-    },
-    {
-      title: `GeoGLUE: A Chinese GeoGraphic Language Understanding Evaluation Benchmark`,
-      abstract: `<strong>Dongyang Li</strong>, Ruixue Ding, Qiang Zhang, Zheng Li, Boli Chen, Pengjun Xie, Yao Xu, Xin Li, Ning Guo, Fei Huang, Xiaofeng He`,
-      download: "https://arxiv.org/abs/2305.06545",
-      writers: ["<strong>[ADMA 2024, CCF-C]</strong>",],
-    },
-    {
       title: `DAFNet: Dynamic Auxiliary Fusion for Sequential Model Editing in Large Language Models`,
       abstract: `Taolin Zhang, Qizhou Chen, <strong>Dongyang Li (Co-first author)</strong>, Chengyu Wang, Xiaofeng He, Longtao Huang, Hui Xue, Jun Huang`,
       download: "https://aclanthology.org/2024.findings-acl.92/",
@@ -119,6 +107,18 @@ const enPublicationsPageData = {
       abstract: `Feifei Xu, Puzhe Li, <strong>Dongyang Li<sup>✉</sup></strong>, Bo Li, Luobin Huang, Wenjing Zhu, Zirui Xu, Yu Xie`,
       download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
       writers: ["<strong>[ICMR 2026, CCF-B]</strong>",],
+    },
+    {
+      title: `MCFC: A Momentum-Driven Clicked Feature Compressed Pre-trained Language Model for Information Retrieval`,
+      abstract: `<strong>Dongyang Li</strong>, Ruixue Ding, Pengjun Xie, Xiaofeng He`,
+      download: "https://link.springer.com/chapter/10.1007/978-981-97-9431-7_6",
+      writers: ["<strong>[NLPCC 2024, CCF-C]</strong>",],
+    },
+    {
+      title: `GeoGLUE: A Chinese GeoGraphic Language Understanding Evaluation Benchmark`,
+      abstract: `<strong>Dongyang Li</strong>, Ruixue Ding, Qiang Zhang, Zheng Li, Boli Chen, Pengjun Xie, Yao Xu, Xin Li, Ning Guo, Fei Huang, Xiaofeng He`,
+      download: "https://arxiv.org/abs/2305.06545",
+      writers: ["<strong>[ADMA 2024, CCF-C]</strong>",],
     },
      {
       title: `Text-Driven Hybrid Curriculum Learning for Multimodal Sentiment Analysis`,
