@@ -35,6 +35,12 @@ const zhHomePageData = {
 const zhPublicationsPageData = {
   type_one_title: "Conference & Journal Papers",
   type_one_items: [
+    {
+      title: `From Discord to Accord: A Consensus-Driven Multi-Agent Framework for Multi-Modal Question Answering`,
+      abstract: `<strong>Dongyang Li</strong>, Luobin Huang, Taolin Zhang, Xiaofeng He, Chengyu Wang`,
+      download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
+      writers: ["<strong>[ACM MM 2026, CCF-A]   </strong>",],
+    },
      {
       title: `On the Role of Long-tail Knowledge in Retrieval Augmented Large Language Models`,
       abstract: `<strong>Dongyang Li</strong>, Junbing Yan, Taolin Zhang, Chengyu Wang, Xiaofeng He, Longtao Huang, Hui Xue, Jun Huang`,
