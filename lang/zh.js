@@ -90,6 +90,30 @@ const zhPublicationsPageData = {
       writers: ["<strong>[ECAI 2024, CCF-B]</strong>",],
     },
     {
+      title: `ESR: Explicit Spatial Reasoning with Perception-Enhanced 3D Scene Graphs for Zero-Shot 3D Visual Grounding`,
+      abstract: `Feifei Xu, Guoxiang Wu , <strong>Dongyang Li<sup>✉</sup></strong>, Lupeng Sun, Chenchuan Lv`,
+      download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
+      writers: ["<strong>[WISE 2026, CCF-B]</strong>",],
+    },
+    {
+      title: `SASRAG: Semantically Augmented Shapley Evidence Recombination for Multi-Hop Retrieval-Augmented Generation`,
+      abstract: `Feifei Xu, Yu Xie, <strong>Dongyang Li<sup>✉</sup></strong>, Wenjing Zhu, Puzhe Li, Luobin Huan, Zirui Xu`,
+      download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
+      writers: ["<strong>[WISE 2026, CCF-B]</strong>",],
+    },
+    {
+      title: `Lie-PRAG: Order-Sensitive Parametric RAG via Lie-Algebraic Fusion`,
+      abstract: `Feifei Xu, Yuchi Zhuo , <strong>Dongyang Li<sup>✉</sup></strong>, Luobin Huan, Zirui Xu, Yu Xie, Zhimin Ma, Wei Li`,
+      download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
+      writers: ["<strong>[WISE 2026, CCF-B]</strong>",],
+    },
+    {
+      title: `From Perception to Cognition: Question-Guided Motion-Frequency Collaboration for Audio-Visual Question Answering`,
+      abstract: `Feifei Xu, Wenjing Zhu, <strong>Dongyang Li<sup>✉</sup></strong>, Puzhe Li, Luobin Huang, Yu Xie, Zirui Xu`,
+      download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
+      writers: ["<strong>[WISE 2026, CCF-B]</strong>",],
+    },
+    {
       title: `LH-DETR: A Lightweight Hybrid Architecture for End-to-End Object Detection in UAV Images`,
       abstract: `Feifei Xu, Lupeng Sun, <strong>Dongyang Li<sup>✉</sup></strong>, Guoxiang Wu, Chenchuan Lv`,
       download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
