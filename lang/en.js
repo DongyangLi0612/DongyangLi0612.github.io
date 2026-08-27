@@ -109,12 +109,6 @@ const enPublicationsPageData = {
       writers: ["<strong>[WISE 2026, CCF-B]</strong>",],
     },
     {
-      title: `From Perception to Cognition: Question-Guided Motion-Frequency Collaboration for Audio-Visual Question Answering`,
-      abstract: `Feifei Xu, Wenjing Zhu, <strong>Dongyang Li<sup>✉</sup></strong>, Puzhe Li, Luobin Huang, Yu Xie, Zirui Xu`,
-      download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
-      writers: ["<strong>[WISE 2026, CCF-B]</strong>",],
-    },
-    {
       title: `LH-DETR: A Lightweight Hybrid Architecture for End-to-End Object Detection in UAV Images`,
       abstract: `Feifei Xu, Lupeng Sun, <strong>Dongyang Li<sup>✉</sup></strong>, Guoxiang Wu, Chenchuan Lv`,
       download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
