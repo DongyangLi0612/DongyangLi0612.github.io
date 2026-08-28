@@ -108,6 +108,12 @@ const zhPublicationsPageData = {
       writers: ["<strong>[WISE 2026, CCF-B]</strong>",],
     },
     {
+      title: `Geo-Ground: Zero-Shot 3D Visual Grounding via Native 3D Topology and Epipolar Consistency`,
+      abstract: `Feifei Xu, Zhimin Ma, <strong>Dongyang Li<sup>✉</sup></strong>, Guoxiang Wu, Yuhang Zhu, Yuchi Zhuo`,
+      download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
+      writers: ["<strong>[PG 2026, CCF-B]</strong>",],
+    },
+    {
       title: `LH-DETR: A Lightweight Hybrid Architecture for End-to-End Object Detection in UAV Images`,
       abstract: `Feifei Xu, Lupeng Sun, <strong>Dongyang Li<sup>✉</sup></strong>, Guoxiang Wu, Chenchuan Lv`,
       download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
