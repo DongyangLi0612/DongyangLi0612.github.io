@@ -240,6 +240,12 @@ const enPublicationsPageData = {
       download: "https://aclanthology.org/2024.emnlp-main.751/",
       writers: ["<strong>[EMNLP 2024, CCF-B]</strong>",],
     },
+    {
+      title: `From Perception to Cognition: Question-Guided Motion-Frequency Collaboration for Audio-Visual Question Answering`,
+      abstract: `Feifei Xu, Wenjing Zhu, Dongyang Li, Puzhe Li, Yu Xie`,
+      download: "https://link.springer.com/chapter/10.1007/978-3-031-33380-4_11",
+      writers: ["<strong>[WISE 2026, CCF-B]</strong>",],
+    },
     
   ],
  
