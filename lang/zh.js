@@ -143,6 +143,12 @@ const zhPublicationsPageData = {
       download: "https://arxiv.org/abs/2305.06545",
       writers: ["<strong>[ADMA 2024, CCF-C]</strong>",],
     },
+    {
+      title: `AFGNet: An Adaptive Frequency-Guided Dual-Domain Fusion Network for Remote Sensing Semantic Segmentation`,
+      abstract: `Feifei Xu, Chenchuan Lv, <strong>Dongyang Li<sup>✉</sup></strong>, Lupeng Sun, and Guoxiang Wu`,
+      download: "https://scholar.google.com/citations?user=YKgKz5gAAAAJ&hl=zh-CN",
+      writers: ["<strong>[ICONIP 2026, CCF-C]</strong>",],
+    },
      {
       title: `Text-Driven Hybrid Curriculum Learning for Multimodal Sentiment Analysis`,
       abstract: `Feifei Xu, Puzhe Li, <strong>Dongyang Li<sup>✉</sup></strong>, Luobin Huang, and Wenjing Zhu`,
