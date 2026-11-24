@@ -252,6 +252,12 @@ const enPublicationsPageData = {
       download: "https://link.springer.com/chapter/10.1007/978-3-031-33380-4_11",
       writers: ["<strong>[WISE 2026, CCF-B]</strong>",],
     },
+    {
+      title: `LIT: Automated Red-Teaming for Text-to-Image Models via Multilingual Agent Debate`,
+      abstract: `Mi Wen, Han Zhang, Dongyang Li, Xiaoqing Yu`,
+      download: "https://link.springer.com/chapter/10.1007/978-3-031-33380-4_11",
+      writers: ["<strong>[IoT, SCI Q1 Journal]</strong>",],
+    },
     
   ],
  
