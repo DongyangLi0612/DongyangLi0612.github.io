@@ -202,7 +202,7 @@ const enPublicationsPageData = {
       title: `BELLE: A Bi-Level Multi-Agent Reasoning Framework for Multi-Hop Question Answering`,
       abstract: `Taolin Zhang, <strong>Dongyang Li</strong>, Qizhou Chen, Chengyu Wang, Xiaofeng He`,
       download: "https://aclanthology.org/2025.acl-long.211/",
-      writers: ["<strong>[ACL 2025, CCF-A]</strong>",],
+      writers: ["<strong>[ACL , CCF-A]</strong>",],
     },
     {
       title: `PE: A Poincare Explanation Method for Fast Text Hierarchy Generation`,
@@ -214,7 +214,7 @@ const enPublicationsPageData = {
       title: `SE-Prompt: Exploring Semantic Enhancement with Prompt Tuning for Relation Extraction`,
       abstract: `Cai Wang, <strong>Dongyang Li</strong>, Xiaofeng He`,
       download: "https://dl.acm.org/doi/10.1007/978-3-031-46674-8_8",
-      writers: ["<strong>[ACL 2025, CCF-A]</strong>",],
+      writers: ["<strong>[ADMA 2023, CCF-A]</strong>",],
     },
     {
       title: `OnMKD: An Online Mutual Knowledge Distillation Framework for Passage Retrieval`,
